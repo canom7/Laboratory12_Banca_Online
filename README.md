@@ -1,8 +1,2 @@
-# 00-start-lab-session
+# Laboratory 12 - Banca online
 
-In this project we are implemented from `01-login` to `03-account` examples.
-
-## Next steps
-
-- Implement `movements` page.
-- Implement `transfer` page.
